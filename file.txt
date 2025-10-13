@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Sabor a Venezuela | Canoas - RS</title>
+
+  <style>
+
+    body {
+
+      margin: 0;
+
+      font-family: "Poppins", sans-serif;
+
+      background: url('https://i.imgur.com/jHR8R64.jpg') no-repeat center center fixed;
+
+      background-size: cover;
+
+      color: #fff;
+
+      text-align: center;
+
+    }
+
+    .overlay {
+
+      background-color: rgba(0, 0, 0, 0.6);
+
+      min-height: 100vh;
+
+      padding: 20px;
+
+    }
+
+    header img {
+
+      width: 180px;
+
+      margin-top: 20px;
+
+    }
+
+    h1 {
+
+      font-size: 2em;
+
+      color: #ffcc00;
+
+    }
+
+    h2 {
+
+      color: #ff4444;
+
+    }
+
+    .menu {
+
+      background: rgba(255, 255, 255, 0.1);
+
+      border-radius: 15px;
+
+      padding: 20px;
+
+      margin: 20px auto;
+
+      max-width: 600px;
+
+    }
+
+    .menu-item {
+
+      margin: 10px 0;
+
+      font-size: 1.1em;
+
+    }
+
+    .buttons {
+
+      margin: 25px 0;
+
+    }
+
+    .btn {
+
+      display: inline-block;
+
+      margin: 10px;
+
+      padding: 12px 24px;
+
+      border-radius: 25px;
+
+      text-decoration: none;
+
+      font-weight: bold;
+
+      transition: 0.3s;
+
+    }
+
+    .btn-whatsapp {
+
+      background: #25d366;
+
+      color: white;
+
+    }
+
+    .btn-whatsapp:hover {
+
+      background: #1da851;
+
+    }
+
+    .btn-ifood {
+
+      background: #ff0000;
+
+      color: white;
+
+    }
+
+    .btn-ifood:hover {
+
+      background: #cc0000;
+
+    }
+
+    .social {
+
+      margin-top: 20px;
+
+    }
+
+    .social a {
+
+      margin: 0 10px;
+
+      color: #ffcc00;
+
+      font-weight: bold;
+
+      text-decoration: none;
+
+    }
+
+    footer {
+
+      margin-top: 40px;
+
+      font-size: 0.9em;
+
+      color: #ccc;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <div class="overlay">
+
+    <header>
+
+      <img src="1000005300.webp" alt="Logo Sabor a Venezuela" />
+
+      <h1>Sabor a Venezuela</h1>
+
+      <p>O autêntico sabor venezuelano em Canoas 🇻🇪🇧🇷</p>
+
+    </header>
+
+    <section class="menu">
+
+      <h2>🍽️ Nosso Cardápio</h2>
+
+      <div class="menu-item">Arepas: Reina Pepiada, Carne Mechada, Frango, Ovos Mexidos e Salsichas com Molho Rosé.</div>
+
+      <div class="menu-item">Empanadas: Carne Mechada e Frango Mechado.</div>
+
+      <div class="menu-item">Tequeños: Queijo.</div>
+
+    </section>
+
+    <section>
+
+      <h2>🕒 Horário de Funcionamento</h2>
+
+      <p>Segunda a Domingo: 7:00 às 23:00</p>
+
+      <p>Terça-feira: 18:30 às 23:00</p>
+
+    </section>
+
+    <section>
+
+      <h2>📍 Localização</h2>
+
+      <p>R. Sapucaia - Canoas, RS</p>
+
+    </section>
+
+    <div class="buttons">
+
+      <a class="btn btn-whatsapp" href="https://wa.me/5551994088447?text=Olá!%20Gostaria%20de%20fazer%20um%20pedido%20no%20Sabor%20a%20Venezuela%20🍽️" target="_blank">📱 Fazer pedido no WhatsApp</a>
+
+      <a class="btn btn-ifood" href="https://www.ifood.com.br/delivery/canoas-rs/sabor-a-venezuela-niteroi/04981f7c-2c33-40fa-9425-78a7799dca5a" target="_blank">🍴 Peça pelo iFood</a>
+
+    </div>
+
+    <div class="social">
+
+      <p>Siga-nos nas redes:</p>
+
+      <a href="https://www.instagram.com/saboravzla2025" target="_blank">Instagram</a> |
+
+      <a href="https://www.facebook.com/sabor a Venezuela" target="_blank">Facebook</a> |
+
+      <a href="https://www.tiktok.com/@saboravzla1" target="_blank">TikTok</a>
+
+    </div>
+
+    <footer>
+
+      <p>© 2025 Sabor a Venezuela - Canoas, RS. Todos os direitos reservados.</p>
+
+    </footer>
+
+  </div>
+
+</body>
+
+</html>
